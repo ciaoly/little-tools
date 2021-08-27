@@ -1,0 +1,3 @@
+[submodule "ScreenBarScanner"]
+	path = ScreenBarScanner
+	url = https://github.com/ciaoly/ScreenBarScanner
