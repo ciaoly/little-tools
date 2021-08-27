@@ -1,3 +1,6 @@
 [submodule "ScreenBarScanner"]
 	path = ScreenBarScanner
 	url = https://github.com/ciaoly/ScreenBarScanner
+[submodule "Windows-Rdp-tool"]
+	path = Windows-Rdp-tool
+	url = https://github.com/ciaoly/Windows-Rdp-tool
